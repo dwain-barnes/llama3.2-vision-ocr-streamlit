@@ -19,7 +19,7 @@ Welcome to the Private Local OCR project! This tool leverages Meta's Llama 3.2 V
 
 1. **Clone the Repository**:
     ```bash
-    git clone https://github.com/dwain-barnes/LlamaOCR-Streamlit.git
+    git clone https://github.com/dwain-barnes/llama3.2-vision-ocr-streamlit.git
     cd LlamaOCR-Streamlit
     ```
 
@@ -55,7 +55,7 @@ Welcome to the Private Local OCR project! This tool leverages Meta's Llama 3.2 V
 - Streamlit
 - Ollama
 - Pillow
-- Other dependencies as listed in `requirements.txt`
+
 
 ## Contributing
 
