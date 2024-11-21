@@ -1,6 +1,8 @@
 # Private Local OCR with Llama 3.2 Vision and Streamlit
 
-Welcome to the Private Local OCR project! This tool leverages Meta's Llama 3.2 Vision model via the Ollama platform, providing a user-friendly Streamlit interface for efficient and private text extraction from images. It was made as a part of a blog series https://www.gpt-labs.ai/post/private-local-llamaocr-with-a-user-friendly-streamlit-front-end
+![logo](Local_OCR.png)
+
+Welcome to the Private Local OCR project! This tool leverages Meta's Llama 3.2 Vision model via the Ollama platform, providing a user-friendly Streamlit interface for efficient and private text extraction from images. It was made as a part of a blog series [here](https://www.gpt-labs.ai/post/private-local-llamaocr-with-a-user-friendly-streamlit-front-end)
 
 ## Features
 
